@@ -35,8 +35,8 @@ Your task for project part 1 is to build the best possible classifier to predict
 ### Hint
 + You will get decent performance with **a support vector machine using a Gaussian kernel of radius 3×105 and a hinge weight of C=10, using 1-vs-rest and voting**. (baseline)
 + Some issues to think about
-+   you can try other classifiers, other methods of reducing multi-class to binary, other kernels, feature engineering, other parameter values, different regularizations, different normalizations
-+   make sure to use techniques like **cross-validation, holdout, or bootstrap** within the training data set to avoid fooling yourself about the accuracy of your classifier
+  + you can try other classifiers, other methods of reducing multi-class to binary, other kernels, feature engineering, other parameter values, different regularizations, different normalizations
+  + make sure to use techniques like **cross-validation, holdout, or bootstrap** within the training data set to avoid fooling yourself about the accuracy of your classifier
 
 
 
