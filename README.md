@@ -20,6 +20,7 @@ Classfication Problem
 The fMRI scan is taken approximately 6 seconds after the time button would have been pressed, to account for the delay between neural activity and the BOLD signal that the fMRI measures.
 
 Mapping to Label Y
+
 1. Early Stop: Successful stop to an early stop signal.
 2. Late Stop: Successful stop to a late stop signal.
 3. Correct Go: Correct button press (within ~500ms) on a trial with no stop signal.
