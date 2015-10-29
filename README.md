@@ -8,7 +8,7 @@ Xinxin Pan;
 
 ### Project Part 1 Description 
 
-***Deadline: Wednesday 11/11***
+`Deadline: Wednesday 11/11`
 
 ```
 Sample Number: 501
@@ -32,10 +32,10 @@ Your task for project part 1 is to build the best possible classifier to predict
 + Free to use any tools you like: existing libraries or ones you implement yourself
 
 ### Hint
-+ You will get decent performance with ***a support vector machine using a Gaussian kernel of radius 3×105 and a hinge weight of C=10, using 1-vs-rest and voting***. (baseline)
++ You will get decent performance with **a support vector machine using a Gaussian kernel of radius 3×105 and a hinge weight of C=10, using 1-vs-rest and voting**. (baseline)
 + Some issues to think about
 +   you can try other classifiers, other methods of reducing multi-class to binary, other kernels, feature engineering, other parameter values, different regularizations, different normalizations
-+   make sure to use techniques like ***cross-validation, holdout, or bootstrap*** within the training data set to avoid fooling yourself about the accuracy of your classifier
++   make sure to use techniques like **cross-validation, holdout, or bootstrap** within the training data set to avoid fooling yourself about the accuracy of your classifier
 
 
 
